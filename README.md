@@ -1,7 +1,6 @@
 - Hi, I’m @davis4459 
-- I’m interested in  AI-first products!
 - I’m currently developing a new phone app
-- My new phone app has a market segment of everyone connected to the Internet - 4 billion people.
+- My new phone app has a TAM of everyone connected to the Internet - 5 billion people.
 
 
 <!---
